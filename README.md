@@ -15,4 +15,6 @@ by [Prabhat Kumar](http://prabhatkumar.org/)
 ## Philosophy
 **BioD3** does what you tell it to do — no more, no less; _absolutely perfect_.
 
+It doesn't mean, BioD3 is trying to outsmart users by making bold assumptions, nor does it burden them with needless complexity and configuration.
+
 **Copyright** © 2015, [Prabhat Kumar](http://prabhatkumar.org/). All rights reserved.
