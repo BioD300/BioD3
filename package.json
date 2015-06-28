@@ -1,0 +1,29 @@
+{
+  "name": "BioD3",
+  "version": "v1.0.0",
+  "description": "An advance JavaScript library for Scientific Data Visualisation",
+  "keywords": [
+    "dom",
+    "w3c",
+    "svg",
+    "scientific",
+    "data",
+    "visualization"
+  ],
+  "homepage": "http://research.sequomics.com/",
+  "author": {
+    "name": "Prabhat Kumar",
+    "url": "http://prabhatkumar.org/"
+  },
+  "contributors": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BioD3/BioD3.git"
+  },
+  "license": "Apache v2.0"
+}
