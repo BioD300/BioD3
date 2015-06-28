@@ -13,5 +13,6 @@ by [Prabhat Kumar](http://prabhatkumar.org/)
 **BioD3** is basically JavaScript library for "Scientific Data Visualisation", written in [CoffeeScript](http://coffeescript.org/) & [SASS](http://sass-lang.com/) by using a data visualisation framework [d3](http://d3js.org/). It's allow programmers to concentrate on their specific problems and avoid re-implementing the well-known algorithms/libraries.
 
 ## Philosophy
+**BioD3** does what you tell it to do — no more, no less; _absolutely perfect_.
 
 **Copyright** © 2015, [Prabhat Kumar](http://prabhatkumar.org/). All rights reserved.
