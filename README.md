@@ -23,4 +23,7 @@ It doesn't mean, BioD3 is trying to outsmart users by making bold assumptions, n
 - **I**nteractivity;
 - **M**odularity
 
+## Documentation
+Online documentation can be found at http://research.sequomics.com/ or inside the `docs` folder.
+
 **Copyright** © 2015, [Prabhat Kumar](http://prabhatkumar.org/). All rights reserved.
