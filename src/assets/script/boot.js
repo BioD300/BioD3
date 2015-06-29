@@ -9,3 +9,7 @@
  */
 /* @Define the "BioD3" global namespace. */
 window.BioD3 = {};
+/* @Create and Define the Boot Module */
+/* @Initiating with Immediately Invoked Function Expression [IIFE]. */
+(function(BioD3){
+})(window.BioD3);
