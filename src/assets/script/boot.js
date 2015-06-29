@@ -7,3 +7,5 @@
  * @copyright : © 2015, Prabhat Kumar. All rights reserved.
  * ________________________________________________________________
  */
+/* @Define the "BioD3" global namespace. */
+window.BioD3 = {};
