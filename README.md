@@ -10,7 +10,7 @@
 by [Prabhat Kumar](http://prabhatkumar.org/)
 
 ## About
-**BioD3** is basically JavaScript library for "Scientific Data Visualisation", written in [CoffeeScript](http://coffeescript.org/) & [SASS](http://sass-lang.com/) by using a data visualisation framework, [d3](http://d3js.org/) (Data-Driven Documents). It's allow programmers to concentrate on their specific problems and avoid re-implementing the well-known algorithms/libraries.
+**BioD3** is basically JavaScript library for "Scientific Data Visualisation", written in [CoffeeScript](http://coffeescript.org/) & [SASS](http://sass-lang.com/) by using a data visualisation framework, [d3](http://d3js.org/) (Data-Driven Documents). It's allow programmers to concentrate on their specific problems and avoid re-implementing the well-known algorithms and libraries.
 
 ## Philosophy
 **BioD3** does what you tell it to do — no more, no less; _absolutely perfect_.
@@ -28,5 +28,7 @@ Online documentation can be found at http://research.sequomics.com/ or inside th
 
 ## Funding
 [Sequomics](http://sequomics.com/) Corporation's Research Division.
+
+*Conflict of Interest*: none declared.
 
 **Copyright** © 2015, [Prabhat Kumar](http://prabhatkumar.org/). All rights reserved.
