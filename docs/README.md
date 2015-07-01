@@ -7,3 +7,4 @@
 - http://vis.stanford.edu
 - http://vis.stanford.edu/papers/d3
 - http://vis.stanford.edu/files/2011-D3-InfoVis.pdf
+- http://idl.cs.washington.edu/
